@@ -1,0 +1,10 @@
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.exe.config
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.exe
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.pdb
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.AssemblyReference.cache
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.Form1.resources
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.Properties.Resources.resources
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.GenerateResource.cache
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.CoreCompileInputs.cache
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.exe
+C:\Users\jorle\source\repos\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.pdb
